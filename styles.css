@@ -1,0 +1,64 @@
+body {
+    max-width: 30vw;
+    text-align: center;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f1f8e9;
+    color: #1a237e;
+    padding: 25px 0;
+}
+
+h1,
+h2 {
+    color: #f50057;
+}
+
+.foodimg {
+    width: 300px;
+    height: 300px;
+    border: 3px solid #f50057;
+    border-radius: 50%;
+}
+
+ul,
+ol {
+    text-align: left;
+}
+
+.homeimg {
+    width: 250px;
+    height: auto;
+    border: 2px solid #f50057;
+    border-radius: 10%;
+}
+
+.note {
+    font-weight: bold;
+}
+
+a {
+    color: #1a237e;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #f50057;
+}
+
+button {
+    background-color: #f50057;
+    color: #f1f8e9;
+    padding: 10px 40px;
+    border: 1px solid #1a237e;
+    border-radius: 3em;
+}
+
+button:hover {
+    background-color: #1a237e;
+}
+
+h2 {
+    text-decoration: underline solid #f50057;
+}
