@@ -10,9 +10,11 @@ The goal of the project was to create a recipe website that includes a homepage,
 
 Through this project, I was able to solidify my understanding of the following skills:
 
-Git basics: creating and managing branches, committing changes, and pushing changes to a remote repository.
-HTML basics: creating basic web pages with HTML tags, attributes, and elements.
-CSS basics: styling web pages with CSS rules, properties, and values.
+- Git basics: creating and managing branches, committing changes, and pushing changes to a remote repository.
+
+- HTML basics: creating basic web pages with HTML tags, attributes, and elements.
+
+- CSS basics: styling web pages with CSS rules, properties, and values.
 
 ## Demo
 You can view a live demo of the website [here](https://agracanin.github.io/odin-recipes/).
